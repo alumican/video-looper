@@ -1,8 +1,8 @@
-**Video Looper / Video Looper Plus**
+**Video Looper**
 
 # プライバシーポリシー
 
-Yukiya Okuda は Video Looper アプリ（以下 Video Looper Plus も同様）を無料アプリとして提供しています。このサービスは Yukiya Okuda によって無償で提供され、そのままの形で使用することを目的としています。
+Yukiya Okuda は Video Looper アプリを無料アプリとして提供しています。このサービスは Yukiya Okuda によって無償で提供され、そのままの形で使用することを目的としています。
 
 このページでは、本サービスを利用する際の個人情報の収集、使用、および開示に関する方針についてご説明します。
 

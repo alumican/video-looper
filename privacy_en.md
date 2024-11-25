@@ -1,8 +1,8 @@
-**Video Looper**
+**Video Looper / Video Looper Plus**
 
 # Privacy Policy
 
-Yukiya Okuda built the Video Looper app as a Free app. This SERVICE is provided by Yukiya Okuda at no cost and is intended for use as is.
+Yukiya Okuda built the Video Looper app (hereinafter also referred to as Video Looper Plus) as a Free app. This SERVICE is provided by Yukiya Okuda at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
